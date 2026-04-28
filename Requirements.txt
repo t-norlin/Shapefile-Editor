@@ -1,0 +1,9 @@
+streamlit
+geopandas
+pandas
+shapely
+folium
+streamlit-folium
+branca
+fiona
+pyproj
